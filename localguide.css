@@ -1,6 +1,7 @@
 body{                                                                                   
-    background-color: rgb(255, 255, 255);
-
+    background-image: url("https://img.freepik.com/free-vector/female-guide-with-group-tourists-flat-vector-illustration-happy-girls-guys-having-excursion-with-tour-guide-holding-flag-men-women-taking-photo-looking-sightseeing-tourism-trip-concept_74855-24526.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
 }
 #board{
     text-align: center;

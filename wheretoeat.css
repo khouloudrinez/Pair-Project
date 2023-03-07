@@ -1,4 +1,13 @@
-
+body {
+    background: url(https://images.unsplash.com/photo-1543353071-873f17a7a088?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGxhdGVkJTIwZm9vZHxlbnwwfHwwfHw%3D&w=1000&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#stname{
+    text-transform: capitalize;
+    font-size: 80px;
+    font-family: "Times New Roman", Times, serif;
+}
 #searchBar{
     position: absolute;
     top: 75px ;
@@ -39,8 +48,10 @@ li a:hover {
 * {box-sizing: border-box;}
 
 #border1 {
-    border-style: groove;
+    border-style: solid;
+    margin-bottom: 5px;
+    
 }
 #border2 {
-    border-style: groove;
+    border-style: solid;
 }
